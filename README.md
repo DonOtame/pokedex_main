@@ -2,15 +2,15 @@
 
 - Screen de Login
   
-![Screenshot_2](https://github.com/DonOtame/pokedex_main/assets/78981957/7086578b-b3ab-4293-8c56-78192ef61c81)
+![Screenshot_2](https://github.com/DonOtame/pokedex_main/assets/78981957/0b97d5b9-00f4-4bb7-a90e-dfeee649632b)
 
 - Screen de Fallo de inicio de secion
-  
-![Screenshot_3](https://github.com/DonOtame/pokedex_main/assets/78981957/2afe0018-174d-4daf-bd62-ebd50d4437f7)
+
+![Screenshot_3](https://github.com/DonOtame/pokedex_main/assets/78981957/45e2e5fb-374d-41ed-b13e-bd579cf9dcbe)
 
 - Screen de Ingreso Exitoso
   
-![Screenshot_5](https://github.com/DonOtame/pokedex_main/assets/78981957/baa19670-af4b-4c0f-a064-069f8948d342)
+![Screenshot_5](https://github.com/DonOtame/pokedex_main/assets/78981957/c9fb8701-ef69-47fd-8eca-4f214780166a)
 
 
 A new Flutter project.
