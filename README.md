@@ -1,12 +1,15 @@
 # pokedex_main
 
 - Screen de Login
+  
 ![Screenshot_2](https://github.com/DonOtame/pokedex_main/assets/78981957/7086578b-b3ab-4293-8c56-78192ef61c81)
 
 - Screen de Fallo de inicio de secion
+  
 ![Screenshot_3](https://github.com/DonOtame/pokedex_main/assets/78981957/2afe0018-174d-4daf-bd62-ebd50d4437f7)
 
 - Screen de Ingreso Exitoso
+  
 ![Screenshot_5](https://github.com/DonOtame/pokedex_main/assets/78981957/baa19670-af4b-4c0f-a064-069f8948d342)
 
 
